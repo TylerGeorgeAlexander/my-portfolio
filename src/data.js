@@ -27,7 +27,7 @@ export const projects = [
     title: "Motorcycle Ecommerce Website",
     subtitle: "HTML / CSS / JS / Bootstrap",
     description:
-      "A high fidelity prototype for an ecommerce landing, product, and success page.",
+      "A high fidelity prototype for an ecommerce website, including landing, product, and success pages.",
     image: "./ecommerce-motorcycles.png",
     link: "https://Motorcycle-Ecommerce-Website.tyleralexander5.repl.co",
   },
