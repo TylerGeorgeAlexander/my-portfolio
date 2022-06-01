@@ -23,6 +23,14 @@ export const projects = [
     image: "./periodic-tables.png",
     link: "https://frr-client.herokuapp.com/dashboard",
   },
+  {
+    title: "Motorcycle Ecommerce Website",
+    subtitle: "HTML / CSS / JS / Bootstrap",
+    description:
+      "A high fidelity prototype for an ecommerce landing, product, and success page.",
+    image: "./ecommerce-motorcycles.png",
+    link: "https://Motorcycle-Ecommerce-Website.tyleralexander5.repl.co",
+  },
 ];
 
 export const skills = [
