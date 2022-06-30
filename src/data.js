@@ -31,6 +31,14 @@ export const projects = [
     image: "./ecommerce-motorcycles.png",
     link: "https://Motorcycle-Ecommerce-Website.tyleralexander5.repl.co",
   },
+  {
+    title: "Login Page",
+    subtitle: "PERN Stack / Hosted on Heroku",
+    description:
+      "Login page template that is using localStorage to Save Data Across Windows. Options allowing changing between sessionStorage and localStorage can allow different benefits",
+    image: "./login-page.png",
+    link: "https://ta-login-page.herokuapp.com/",
+  },
 ];
 
 export const skills = [
