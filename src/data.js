@@ -39,6 +39,14 @@ export const projects = [
     image: "./login-page.png",
     link: "https://ta-login-page.herokuapp.com/",
   },
+  {
+    title: "pixel_runner",
+    subtitle: "Python and Pygame",
+    description:
+      "Infinite runner game written in Python. Using Pygame as an open source library.",
+    image: "./pixel_runner_action.png",
+    link: "https://github.com/TylerGeorgeAlexander/pixel_runner",
+  }
 ];
 
 export const skills = [
