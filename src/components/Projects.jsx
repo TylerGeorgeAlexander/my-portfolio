@@ -14,6 +14,10 @@ export default function Projects() {
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Check out my projects!
           </p>
+          <br />
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            (Due to hosting constraints, apps hosted on Heroku may take a few minutes to load.)
+          </p>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (

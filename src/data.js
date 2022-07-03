@@ -35,7 +35,7 @@ export const projects = [
     title: "Login Page",
     subtitle: "PERN Stack / Hosted on Heroku",
     description:
-      "Login page template using localStorage to save data across windows. Template options include sessionStorage and localStorage that offer different benefits.",
+      "Login page template using sessionStorage or localStorage.",
     image: "./login-page.png",
     link: "https://ta-login-page.herokuapp.com/",
   },
