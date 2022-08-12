@@ -6,9 +6,10 @@ export default function Footer() {
       <div className="relative flex items-center h-16 justify-center">
         <a
           href="https://github.com/TylerGeorgeAlexander"
-          className="mr-5 hover:text-white text-right"
+          className="mr-5 hover:text-white opacity-70 hover:opacity-100"
           target="_blank"
           rel="noreferrer"
+          title="GitHub"
         >
           <img
             src="./GitHub/PNG/GitHub-Mark-Light-32px.png"
@@ -17,7 +18,7 @@ export default function Footer() {
         </a>
         <a
           href="https://www.linkedin.com/in/tyler-g-alexander/"
-          className="mr-5 hover:text-white"
+          className="mr-5 hover:text-white opacity-70 hover:opacity-100"
           target="_blank"
           rel="noreferrer"
         >
