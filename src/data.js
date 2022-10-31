@@ -8,6 +8,14 @@ export const projects = [
     link: "https://ta-bug-tracker-mern-client.vercel.app",
   },
   {
+    title: "Contactr",
+    subtitle: "MongoDB, Express, EJS, Node",
+    description:
+      "Contactr allows you to keep track of your company contacts. Tracking your connections while on the job hunt is vital to landing your dream job!",
+    image: "./contactr.png",
+    link: "https://contactr-demo.herokuapp.com",
+  },
+  {
     title: "Periodic Tables",
     subtitle: "PERN Stack and Bootstrap",
     description:
