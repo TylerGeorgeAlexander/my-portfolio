@@ -1,19 +1,11 @@
 export const projects = [
   {
-    title: "WeLoveMovies",
-    subtitle: "PERN Stack",
+    title: "bugTracker",
+    subtitle: "MongoDB, Express, React, Node",
     description:
-      "WeLoveMovies is your source for finding reviews of movies in theatres near you.",
-    image: "./WeLoveMovies.png",
-    link: "https://vast-badlands-28728.herokuapp.com/",
-  },
-  {
-    title: "Pokedex Dream",
-    subtitle: "React and RESTful API",
-    description:
-      "Personal passion project to search different pokemon using https://pokeapi.co/",
-    image: "./pokedex-dream.png",
-    link: "https://pokemon-react-project.herokuapp.com/",
+      "A full stack application document bugs, issues, or features when building an application",
+    image: "./bugTracker.png",
+    link: "https://ta-bug-tracker-mern-client.vercel.app",
   },
   {
     title: "Periodic Tables",
@@ -22,6 +14,14 @@ export const projects = [
       "A full stack application to allow a restaurant owner to create and edit reservations and tables.",
     image: "./periodic-tables.png",
     link: "https://frr-client.herokuapp.com/dashboard",
+  },
+  {
+    title: "WeLoveMovies",
+    subtitle: "PERN Stack",
+    description:
+      "WeLoveMovies is your source for finding reviews of movies in theatres near you.",
+    image: "./WeLoveMovies.png",
+    link: "https://vast-badlands-28728.herokuapp.com/",
   },
   {
     title: "Motorcycle Ecommerce Website",
@@ -34,8 +34,7 @@ export const projects = [
   {
     title: "Login Page",
     subtitle: "PERN Stack / Hosted on Heroku",
-    description:
-      "Login page template using sessionStorage or localStorage.",
+    description: "Login page template using sessionStorage or localStorage.",
     image: "./login-page.png",
     link: "https://ta-login-page.herokuapp.com/",
   },
@@ -46,6 +45,14 @@ export const projects = [
       "Infinite runner game written in Python. Using Pygame as an open source library.",
     image: "./pixel_runner_action.png",
     link: "https://github.com/TylerGeorgeAlexander/pixel_runner",
+  },
+  {
+    title: "Pokedex Dream",
+    subtitle: "React and RESTful API",
+    description:
+      "Personal passion project to search different pokemon using https://pokeapi.co/",
+    image: "./pokedex-dream.png",
+    link: "https://pokemon-react-project.herokuapp.com/",
   }
 ];
 
