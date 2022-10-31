@@ -65,18 +65,18 @@ export const projects = [
 ];
 
 export const skills = [
-  "Python",
-  "Pygame",
-  "Node.js",
+  "Javascript",
   "React",
-  "React Hooks",
-  "Postgres",
   "Express",
+  "Node.js",
+  "MongoDB",
+  "Python",
+  "Github",
+  "Postgres",
+  "React Hooks",
   "RESTful APIs",
-  "Photoshop",
   "Mocha",
   "Chai",
-  "Github",
   "Heroku",
   "Vercel",
   "Kintone",
@@ -84,10 +84,11 @@ export const skills = [
   "Tailwind",
   "MySQL",
   "SQL",
-  "Javascript",
+  "Photoshop",
   "ES6",
   "HTML5",
   "CSS3",
+  "Pygame",
 ];
 
 // We are also importing a testimonials array with a
