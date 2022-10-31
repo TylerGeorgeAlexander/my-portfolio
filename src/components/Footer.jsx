@@ -27,7 +27,7 @@ export default function Footer() {
             width="34"
             height="34"
             viewBox="0 0 34 34"
-            class="global-nav__logo"
+            className="global-nav__logo"
           >
             <title>LinkedIn</title>
             <g>
