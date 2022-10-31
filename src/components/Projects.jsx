@@ -16,8 +16,27 @@ export default function Projects() {
           </p>
           <br />
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            (Due to hosting constraints, apps hosted on Heroku may take a few minutes to load.)
+            (Due to hosting constraints, apps hosted on Heroku may take a few
+            minutes to load.)
           </p>
+          <div className="flex justify-center text-center">
+            <a
+              href="https://github.com/TylerGeorgeAlexander"
+              className="mt-2 hover:text-white opacity-70 hover:opacity-100 text-center justify-center"
+              target="_blank"
+              rel="noreferrer"
+              title="GitHub"
+            >
+              Want to see how it works?
+              <div className="flex justify-center mt-2">
+                <img
+                  src="./GitHub/PNG/GitHub-Mark-Light-32px.png"
+                  alt="GitHub OctoCat Logo"
+        
+                />
+              </div>
+            </a>
+          </div>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => (
