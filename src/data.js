@@ -40,13 +40,6 @@ export const projects = [
     link: "https://Motorcycle-Ecommerce-Website.tyleralexander5.repl.co",
   },
   {
-    title: "Login Page",
-    subtitle: "PERN Stack / Hosted on Heroku",
-    description: "Login page template using sessionStorage or localStorage.",
-    image: "./login-page.png",
-    link: "https://ta-login-page.herokuapp.com/",
-  },
-  {
     title: "pixel_runner",
     subtitle: "Python and Pygame",
     description:
@@ -54,14 +47,6 @@ export const projects = [
     image: "./pixel_runner_action.png",
     link: "https://github.com/TylerGeorgeAlexander/pixel_runner",
   },
-  {
-    title: "Pokedex Dream",
-    subtitle: "React and RESTful API",
-    description:
-      "Personal passion project to search different pokemon using https://pokeapi.co/",
-    image: "./pokedex-dream.png",
-    link: "https://pokemon-react-project.herokuapp.com/",
-  }
 ];
 
 export const skills = [
