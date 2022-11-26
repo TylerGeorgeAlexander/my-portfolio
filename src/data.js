@@ -8,6 +8,14 @@ export const projects = [
     link: "https://ta-bug-tracker-mern-client.vercel.app",
   },
   {
+    title: "Advanced Lawn Care",
+    subtitle: "HTML5, CSS3",
+    description:
+      "Static web page built for a landscaping and lawn maintenance client.",
+    image: "./advanced-lawn-care.png",
+    link: "https://advancedlawncare.netlify.app/",
+  },
+  {
     title: "Contactr",
     subtitle: "MongoDB, Express, EJS, Node",
     description:
@@ -32,6 +40,7 @@ export const projects = [
     link: "https://github.com/TylerGeorgeAlexander/pixel_runner",
   },
 ];
+
 
 export const skills = [
   "Javascript",
