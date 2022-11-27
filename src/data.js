@@ -19,7 +19,7 @@ export const projects = [
     title: "Contactr",
     subtitle: "MongoDB, Express, EJS, Node",
     description:
-      "Contactr allows you to keep track of your company contacts. Tracking your connections while on the job hunt is vital to landing your dream job!",
+      "Contactr allows you to keep track of your networking connections while job hunting.",
     image: "./contactr.png",
     link: "https://contactr-demo.herokuapp.com",
   },
