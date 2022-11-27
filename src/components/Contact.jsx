@@ -68,9 +68,8 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            If you are looking for a website or software development, please
-            feel free to reach out to me. Currently, due to the pandemic, I am
-            working fully remote, and will only accept freelance work in the US.
+            If you are looking for a website or software engineer, please feel
+            free to reach out to me. I would love to work with you!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
