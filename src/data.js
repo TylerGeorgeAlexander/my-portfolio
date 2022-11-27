@@ -24,6 +24,14 @@ export const projects = [
     link: "https://contactr-demo.herokuapp.com",
   },
   {
+    title: "Calvin Ester's Guitar Lessons",
+    subtitle: "HTML5, CSS3",
+    description:
+      "Static web page built for a guitar instructor.",
+    image: "./calvin-ester-guitar-lessons.png",
+    link: "https://calvin-ester-guitar-lessons.netlify.app/",
+  },
+  {
     title: "WeLoveMovies",
     subtitle: "PERN Stack",
     description:
