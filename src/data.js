@@ -27,7 +27,7 @@ export const projects = [
     title: "Calvin Ester's Guitar Lessons",
     subtitle: "HTML5, CSS3",
     description:
-      "Static web page built for a guitar instructor.",
+      "Static web page built for a guitar instructor who also teaches music theory and history.",
     image: "./calvin-ester-guitar-lessons.png",
     link: "https://calvin-ester-guitar-lessons.netlify.app/",
   },
