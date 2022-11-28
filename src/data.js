@@ -40,6 +40,14 @@ export const projects = [
     link: "https://vast-badlands-28728.herokuapp.com/",
   },
   {
+    title: "Color Lab Salon",
+    subtitle: "HTML5, CSS3",
+    description:
+      "Static web page built for a local women-owned hair salon in Sacramento, California.",
+    image: "./color-lab-salon.png",
+    link: "https://color-lab-salon.netlify.app/",
+  },
+  {
     title: "pixel_runner",
     subtitle: "Python and Pygame",
     description:
