@@ -47,14 +47,6 @@ export const projects = [
     image: "./color-lab-salon.png",
     link: "https://color-lab-salon.netlify.app/",
   },
-  {
-    title: "pixel_runner",
-    subtitle: "Python and Pygame",
-    description:
-      "Infinite runner game written in Python. Using Pygame as an open source library.",
-    image: "./pixel_runner_action.png",
-    link: "https://github.com/TylerGeorgeAlexander/pixel_runner",
-  },
 ];
 
 
