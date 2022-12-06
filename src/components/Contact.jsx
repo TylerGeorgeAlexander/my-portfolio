@@ -45,21 +45,20 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=sacramento&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53106.91866391939!2d-84.41452306314744!3d33.70422841472449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f5024659a2f351%3A0x8d59ab9473b28ba4!2sAtlanta%2C%20GA%2030315!5e0!3m2!1sen!2sus!4v1670303570825!5m2!1sen!2sus"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
-              <p className="mt-1">Sacramento, CA</p>
+              <p className="mt-1">Atlanta, GA</p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0"></div>
           </div>
         </div>
         <form
-          // TODO clean up
-          // netlify
+          netlify
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
