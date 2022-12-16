@@ -32,12 +32,12 @@ export const projects = [
     link: "https://calvin-ester-guitar-lessons.netlify.app/",
   },
   {
-    title: "WeLoveMovies",
-    subtitle: "PERN Stack",
+    title: "Fruit Finder",
+    subtitle: "MS Azure's Cognitive Services",
     description:
-      "WeLoveMovies is your source for finding reviews of movies in theatres near you.",
-    image: "./WeLoveMovies.png",
-    link: "https://vast-badlands-28728.herokuapp.com/",
+      "Fruit Finder is a web app which uses Machine Learning and Computer Vision to detect fruit in a photo.",
+    image: "./fruit-finder.png",
+    link: "https://ta-fruit-finder.herokuapp.com/",
   },
   {
     title: "Color Lab Salon",
@@ -52,14 +52,22 @@ export const projects = [
 
 export const skills = [
   "Javascript",
+  "HTML5",
+  "CSS3",
   "React",
   "Express",
   "Node.js",
   "MongoDB",
   "Python",
+  "MS Azure",
+  "GCP (Google Cloud Platform)",
+  "TDD",
+  "OOP",
+  "TypeScript",
+  "Machine Learning",
   "Github",
   "Postgres",
-  "React Hooks",
+  "React Native",
   "RESTful APIs",
   "Mocha",
   "Chai",
@@ -72,9 +80,6 @@ export const skills = [
   "SQL",
   "Photoshop",
   "ES6",
-  "HTML5",
-  "CSS3",
-  "Pygame",
 ];
 
 // We are also importing a testimonials array with a
